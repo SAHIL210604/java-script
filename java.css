@@ -1,0 +1,37 @@
+#circle{
+    border: 2px solid black;
+    height: 500px;
+    width: 500px;
+    font-size: 444px;
+    text-align: center;
+    margin: 180px 0px 0px 300px;
+
+}
+#btn{
+    margin: 28px 0px 0px 500px;
+    border: 2px solid black;
+    color: black;
+    background-color: rgb(85, 164, 232);
+    height: 50px;
+    width: 100px;
+    
+}
+#btn:hover{
+    background-color: rgb(12, 247, 12);
+}
+#btn2{
+    margin: 28px 0px 0px 500px;
+    border: 2px solid black;
+    color: black;
+    background-color: rgb(18, 238, 10);
+    height: 50px;
+    width: 100px;
+
+}
+#btn2:hover{
+    background-color: green;
+}
+#s{
+    text-align: center;
+    font-size: 30px;
+}
